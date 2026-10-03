@@ -1,2 +1,2 @@
 project=git-practice
-status=main-update
+status=merged-main-and-feature
